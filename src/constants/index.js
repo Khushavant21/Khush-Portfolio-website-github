@@ -184,8 +184,9 @@ const experiences = [
     iconBg: '#fff',
     date: 'January 2024 - Present',
     points: [
-      'Working with ReactJS Framewotk to creating scalable and efficient web applications',
+       'Working with ReactJS Framewotk to creating scalable and efficient web applications.',
       'Expert in ReactJS, JavaScript, Redux, React Router, and modern frontend tools.',
+      'Experienced in implementing state management using Redux and Context API and working with databases such as MongoDB, MySQL, and PostgreSQL.',
       //'link-https://github.com/search?q=type%3Apr+author%3Aimf-ali+is%3Amerged+repo%3ARocketChat%2FEmbeddedChat&type=pullrequests'
     ]
   },
